@@ -102,7 +102,7 @@ const char WiFiAPPSK[] = "";
 
 // Wi-Fi network to connect to (if not in AP mode)
 const char* ssid = "Zombo";
-const char* password = "thepromisedlan";
+const char* password = "****";
 
 ESP8266WebServer webServer(80);
 WebSocketsServer webSocketsServer = WebSocketsServer(81);
